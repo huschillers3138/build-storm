@@ -1,2 +1,1 @@
-# build-storm
-scholarship past doing: network practical_application Indiana red
+A basic example of Ruby
